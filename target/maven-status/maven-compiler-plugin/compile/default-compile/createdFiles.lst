@@ -1,0 +1,17 @@
+com\test\hplusapp\beans\User.class
+com\test\hplusapp\exceptions\ApplicationException.class
+com\test\hplusapp\config\ApplicationConfig.class
+com\test\hplusapp\controllers\HomeController.class
+com\test\hplusapp\controllers\UserProfileController.class
+com\test\hplusapp\ServletInitializer.class
+com\test\hplusapp\controllers\SearchController.class
+com\test\hplusapp\repository\UserRepository.class
+com\test\hplusapp\HplusappApplication.class
+com\test\hplusapp\controllers\RedirectionController.class
+com\test\hplusapp\controllers\LoginController.class
+com\test\hplusapp\controllers\RegistrationController.class
+com\test\hplusapp\beans\Product.class
+com\test\hplusapp\repository\ProductRepository.class
+com\test\hplusapp\beans\Login.class
+com\test\hplusapp\interceptors\LoggingInterceptor.class
+com\test\hplusapp\controllers\LogoutController.class
